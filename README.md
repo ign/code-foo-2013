@@ -3,7 +3,7 @@ IGN's Code-Foo 2013
 
 For more information on IGN's Code-Foo 2013, visit [code.ign.com/foo] (http://code.ign.com/foo).
 
-To apply to Code-Foo 2013, fork this repository and answer all questions including either the back-end or front-end section. Push your answers to your fork and send us an email at code-foo@ign.com to let us konw you're finished.
+To apply to Code-Foo 2013, fork this repository and answer all questions including either the back-end or front-end section. Push your answers to your fork and send us an email at code-foo@ign.com to let us know you're finished.
 
 All answers must be completed using Java, Scala, PHP, Ruby, or Javascript. Application must be turned in by _Friday, April 26th at 5pm PST_.
 

@@ -42,7 +42,7 @@ Mushroom
 Horde
 Ganondorf
 Protoman
-Hydralist
+Hydralisk 
 Shepard
 NukaCola
 Plasmid
